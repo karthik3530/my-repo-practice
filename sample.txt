@@ -1,2 +1,0 @@
-this is my first practice repo
-this is from feature1 branch
